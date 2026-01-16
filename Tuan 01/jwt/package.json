@@ -1,0 +1,11 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "main": "jwt.js",
+  "scripts": {
+    "start": "node jwt.js"
+  },
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
